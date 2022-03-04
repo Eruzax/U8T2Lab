@@ -216,7 +216,8 @@ public class Algorithm2DArrays
         {
             for (int j = 0; j < wordChart[0].length; j++)
             {
-                if (strings[j].length() == len) {
+                if (strings[j].length() == len)
+                {
                     str.add(strings[j]);
                 }
             }
